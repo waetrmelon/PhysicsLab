@@ -1,0 +1,2 @@
+GRAVITY = 9.81
+DRAG = 0.75
